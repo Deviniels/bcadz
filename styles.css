@@ -190,6 +190,7 @@ h1{
     }
     
     .vse{
+        right: 30%;
         grid-template-columns: 150px 150px;
     }
 
