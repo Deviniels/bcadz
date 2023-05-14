@@ -127,6 +127,7 @@ h1{
 }
 
 .vse{
+    left: 25%;
     position: relative;
     width:100px;
     height:100px;
@@ -190,7 +191,7 @@ h1{
     }
     
     .vse{
-        right: 0%;
+        left:30%;
         grid-template-columns: 150px 150px;
     }
 
